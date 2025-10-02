@@ -1,6 +1,6 @@
 # PRODIGY_ML_05
 🔍 Task 5 🚀 : Food Classification with CNN 
-🍔 Excited to share my recent internship task where I implemented a Convolutional Neural Network (CNN) for food classification! 🎉
+🍔 Excited to share my recent internship task where I implemented a Convolutional Neural Network (CNN) for food classification! 
 
 🖥️ Project Overview:
 Developed a CNN model to classify 101 different food items from images.
