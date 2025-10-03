@@ -1,4 +1,4 @@
-# PRODIGY_ML_05
+# Food calorie detection
 🔍 Task 5 🚀 : Food Classification with CNN 
 🍔 Excited to share my recent internship task where I implemented a Convolutional Neural Network (CNN) for food classification! 
 
