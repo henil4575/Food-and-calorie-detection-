@@ -1,5 +1,5 @@
 # Food calorie detection
-🔍 Task 5 🚀 : Food Classification with CNN 
+🔍🚀 Food Classification with CNN 
 🍔 Excited to share my recent internship task where I implemented a Convolutional Neural Network (CNN) for food classification! 
 
 🖥️ Project Overview:
