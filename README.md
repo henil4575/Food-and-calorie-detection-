@@ -8,7 +8,7 @@ Utilized TensorFlow and Keras for model building and training.
 Employed data augmentation techniques like shear, zoom, and horizontal flip to enhance model performance.
 Evaluated the model's accuracy and loss using validation data.
 
-📈 Key Achievements:
+
 Visualized the model's performance through accuracy and loss curves, demonstrating its learning progression.
 Implemented image plotting functionality to showcase predictions alongside the corresponding food items and calorie values.
 
