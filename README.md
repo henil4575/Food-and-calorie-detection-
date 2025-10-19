@@ -1,6 +1,6 @@
 # Food calorie detection
 🔍Food Classification with CNN 
-🍔 Excited to share my recent internship task where I implemented a Convolutional Neural Network (CNN) for food classification! 
+ Excited to share my recent internship task where I implemented a Convolutional Neural Network (CNN) for food classification! 
 
 
 Developed a CNN model to classify 101 different food items from images.
